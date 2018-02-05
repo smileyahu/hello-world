@@ -1,0 +1,23 @@
+==================================================
+pcf8574 lib
+==================================================
+= Copyright (c) Davide Gironi, 2012              =
+= http://davidegironi.blogspot.it/               =
+==================================================
+
+
+PCF8574 lib is an AVR Atmega library for the PCF8574 i2c IO port expander.
+This library can run up to 8 PCF8574, it can read and write port status,
+and allows you to expand your Atmega ports.
+
+Setup parameters can be found in file pcf8574.h
+
+
+Devel Notes
+-----------
+This library was developed on Eclipse, built with avr-gcc on Atmega8 @ 1MHz.
+
+
+License
+-------
+Please refer to LICENSE file for licensing information.
